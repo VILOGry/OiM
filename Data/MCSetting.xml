@@ -1,0 +1,804 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MCSetting>
+  <useHierarchy>true</useHierarchy>
+  <useProject>true</useProject>
+  <showPreferenceItem>true</showPreferenceItem>
+  <logOutput>false</logOutput>
+  <customHierarchyRoot />
+  <customProjectRoot />
+  <hierarchyItemList>
+    <MCItem>
+      <type>Original</type>
+      <command />
+      <original>Copy</original>
+      <overrideLabel>false</overrideLabel>
+      <label>Copy</label>
+    </MCItem>
+    <MCItem>
+      <type>Original</type>
+      <command />
+      <original>Paste</original>
+      <overrideLabel>false</overrideLabel>
+      <label>Paste</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Original</type>
+      <command />
+      <original>Rename</original>
+      <overrideLabel>false</overrideLabel>
+      <label>Rename</label>
+    </MCItem>
+    <MCItem>
+      <type>Original</type>
+      <command />
+      <original>Duplicate</original>
+      <overrideLabel>false</overrideLabel>
+      <label>Duplicate</label>
+    </MCItem>
+    <MCItem>
+      <type>Original</type>
+      <command />
+      <original>Delete</original>
+      <overrideLabel>false</overrideLabel>
+      <label>Delete</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Original</type>
+      <command />
+      <original>SelectPrefab</original>
+      <overrideLabel>false</overrideLabel>
+      <label>Select Prefab</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Create Empty</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create Empty</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Cube</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Cube</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Sphere</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Sphere</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Capsule</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Capsule</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Cylinder</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Cylinder</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Plane</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Plane</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Quad</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Quad</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Ragdoll...</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Ragdoll...</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Terrain</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Terrain</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Tree</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Tree</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/Wind Zone</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/Wind Zone</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/3D Object/3D Text</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>3D Object/3D Text</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/2D Object/Sprite</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>2D Object/Sprite</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Light/Directional Light</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Light/Directional Light</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Light/Point Light</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Light/Point Light</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Light/Spotlight</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Light/Spotlight</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Light/Area Light</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Light/Area Light</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Light/Reflection Probe</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Light/Reflection Probe</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Light/Light Probe Group</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Light/Light Probe Group</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Audio/Audio Source</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Audio/Audio Source</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Audio/Audio Reverb Zone</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Audio/Audio Reverb Zone</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Panel</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Panel</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Button</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Button</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Text</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Text</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Image</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Image</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Raw Image</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Raw Image</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Slider</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Slider</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Scrollbar</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Scrollbar</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Toggle</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Toggle</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Input Field</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Input Field</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Canvas</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Canvas</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/UI/Event System</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>UI/Event System</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Particle System</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Particle System</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>GameObject/Camera</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Camera</label>
+    </MCItem>
+  </hierarchyItemList>
+  <projectItemList>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Folder</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Folder</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/C# Script</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/C# Script</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Javascript</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Javascript</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Editor Test C# Script</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Editor Test C# Script</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Shader/Standard Surface Shader</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Shader/Standard Surface Shader</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Shader/Standard Surface Shader (Instanced)</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Shader/Standard Surface Shader (Instanced)</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Shader/Unlit Shader</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Shader/Unlit Shader</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Shader/Image Effect Shader</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Shader/Image Effect Shader</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Shader/Compute Shader</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Shader/Compute Shader</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Shader/Shader Variant Collection</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Shader/Shader Variant Collection</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Scene</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Scene</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Prefab</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Prefab</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Audio Mixer</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Audio Mixer</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Material</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Material</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Lens Flare</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Lens Flare</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Render Texture</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Render Texture</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Lightmap Parameters</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Lightmap Parameters</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Sprites/Square</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Sprites/Square</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Sprites/Triangle</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Sprites/Triangle</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Sprites/Diamond</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Sprites/Diamond</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Sprites/Hexagon</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Sprites/Hexagon</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Sprites/Circle</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Sprites/Circle</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Sprites/Polygon</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Sprites/Polygon</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Animator Controller</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Animator Controller</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Animation</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Animation</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Animator Override Controller</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Animator Override Controller</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Avatar Mask</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Avatar Mask</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Physic Material</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Physic Material</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Physics2D Material</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Physics2D Material</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/GUI Skin</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/GUI Skin</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Custom Font</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Custom Font</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Create/Legacy/Cubemap</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Create/Legacy/Cubemap</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Show in Explorer</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Show in Explorer</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Open</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Open</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Delete</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Delete</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Open Scene Additive</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Open Scene Additive</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import New Asset...</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import New Asset...</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Custom Package...</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Custom Package...</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/2D</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/2D</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Cameras</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Cameras</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Characters</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Characters</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/CrossPlatformInput</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/CrossPlatformInput</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Effects</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Effects</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Environment</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Environment</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/ParticleSystems</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/ParticleSystems</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Prototyping</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Prototyping</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Utility</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Utility</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Vehicles</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Vehicles</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Import Package/Visual Studio 2015 Tools</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Import Package/Visual Studio 2015 Tools</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Export Package...</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Export Package...</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Find References In Scene</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Find References In Scene</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Select Dependencies</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Select Dependencies</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Refresh</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Refresh</label>
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Reimport</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Reimport</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Reimport All</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Reimport All</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Run API Updater...</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Run API Updater...</label>
+    </MCItem>
+    <MCItem>
+      <type>Separator</type>
+      <command />
+      <original>None</original>
+      <overrideLabel>false</overrideLabel>
+      <label />
+    </MCItem>
+    <MCItem>
+      <type>Input</type>
+      <command>Assets/Open C# Project</command>
+      <original>None</original>
+      <overrideLabel>true</overrideLabel>
+      <label>Open C# Project</label>
+    </MCItem>
+  </projectItemList>
+</MCSetting>
